@@ -18,7 +18,7 @@ while True:
 
         mylist = ["rock", "paper", "scissors"]
         a = mylist[0]
-        b= mylist[1]
+        b = mylist[1]
         c = mylist[2]
         computer_selection = random.choice(mylist)
 
